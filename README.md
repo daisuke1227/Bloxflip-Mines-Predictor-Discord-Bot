@@ -16,7 +16,7 @@ chance displayed on embed completely random though 🤷‍♂️
 
 > Type ``pip install discord.py python-dotenv`` in command prompt or terminal
 
-> Type`` python main.py`` or ``python3 main.py``
+> Type ``python main.py`` or ``python3 main.py``
 
 ## completely random mines predictor bot DO NOT SELL IT.
 #### if u repost or distribute with no credits im prob gonna take down.
