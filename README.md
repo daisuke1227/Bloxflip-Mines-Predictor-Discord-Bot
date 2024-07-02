@@ -28,7 +28,7 @@ Command: ``sudo apt install python3``
 Kali Linux
 Command: ``sudo apt install python3``
 
-> then after install PIP im not bothering on windows so look at this tut [installingpip](https://phoenixnap.com/kb/install-pip-windows) and on linux ``sudo apt install python3-pip`` and replace apt with whatever im not bothering rn
+> then after install PIP im not bothering on windows so look at this tut [InstallingPIP](https://phoenixnap.com/kb/install-pip-windows) and on linux ``sudo apt install python3-pip`` and replace apt with whatever im not bothering rn
 
 > Get a server or use your personal machine (windows or linux)
 
