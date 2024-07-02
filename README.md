@@ -8,7 +8,27 @@ chance displayed on embed completely random though 🤷‍♂️
 
 ## ⚙️Install all the stuff
 > Get a server or use your personal machine (windows or linux)
-> Open in your terminal and install git windows = [Install](https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe) and in linux type in ``sudo apt install git``
+> Open in your terminal and install git windows = [Install](https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe) and in linux
+Ubuntu
+Command: ``sudo apt install git``
+Debian
+Command: ``sudo apt install git``
+Fedora
+Command: ``sudo dnf install git``
+Arch Linux
+Command: ``sudo pacman -S git``
+Manjaro
+Command: ``sudo pacman -S git``
+Linux Mint
+Command: ``sudo apt install git``
+openSUSE
+Command: ``sudo zypper install git``
+CentOS
+Command: ``sudo yum install git``
+Pop!_OS
+Command: ``sudo apt install git``
+Kali Linux
+Command: ``sudo apt install git``
 
 > Git clone this by typing in ``git clone https://github.com/daisuke1227/Bloxflip-Mines-Predictor-Discord-Bot.git``
 
