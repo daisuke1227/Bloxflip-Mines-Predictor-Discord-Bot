@@ -27,8 +27,11 @@ Pop!_OS
 Command: ``sudo apt install python3``
 Kali Linux
 Command: ``sudo apt install python3``
+
 > then after install PIP im not bothering on windows so look at this tut [installingpip](https://phoenixnap.com/kb/install-pip-windows) and on linux ``sudo apt install python3-pip`` and replace apt with whatever im not bothering rn
+
 > Get a server or use your personal machine (windows or linux)
+
 > Open in your terminal and install git windows = [Install](https://github.com/git-for-windows/git/releases/download/v2.45.2.windows.1/Git-2.45.2-64-bit.exe) and in linux
 Ubuntu
 Command: ``sudo apt install git``
