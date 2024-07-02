@@ -14,7 +14,7 @@ chance displayed on embed completely random though 🤷‍♂️
 
 > Put in your discord token in config.env (take out config and only put in .env)
 
-> Type pip install discord.py python-dotenv in command prompt
+> Type pip install discord.py python-dotenv in command prompt or terminal
 
 > Type python main.py or python3 main.py
 
