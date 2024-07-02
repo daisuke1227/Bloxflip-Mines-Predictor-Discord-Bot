@@ -12,7 +12,7 @@ chance displayed on embed completely random though 🤷‍♂️
 
 > Git clone this by typing in git clone https://github.com/daisuke1227/Bloxflip-Mines-Predictor-Discord-Bot.git
 
-> Put in your discord token in config.env (take out config and only put in .env)
+> Put in your discord token in the .env file take out example.env and change the file name to only be .env
 
 > Type pip install discord.py python-dotenv in command prompt or terminal
 
